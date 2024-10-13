@@ -1,0 +1,46 @@
+
+.swal2-container {
+    z-index: 99999 !important; /* Ensure this is higher than other elements on the page */
+}
+
+body {
+    background-color: #fcfcfc !important;
+}
+
+
+div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+   color:  #073686 !important;
+}
+
+#TrTqKJWt9lVRXQzASKm8vECmTkqSZ3LX  , #J2sZN4RwbTsHpF4TDHnQnFfwPwnUz9wT , #coQZmNBWsPHDfqPHa7p2T7yTFc4doTU1
+, #O3BhnaWB8WZuWqM2WfsSq5CtizczZoag , #ZUGTsP8qELXOgxpyt3q4hJpK4oyJKm6d {
+    background-color:  #073686 !important;
+}
+
+#IUFRQ9bddsA16gWsLmq3qeNN7ygEMrLd  , #UyBCc2JTDEU5Wcl3SUKF0xzVzQEHDRp1 , #s8l2MVa3AtdMgMqekvOTlhxditZDzKH0
+, #O3BhnaWB8WZuWqM2WfsSq5CtizczZoag , #kG2vi0IshtxaCaZ9InxsRxx579X8euBn{
+    color: #fff !important;
+}
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc {
+    background-color: gray !important;
+
+}
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc .widget-label {
+    color: #fff !important;
+}
+
+#WOJMF9v5DmAEAEr29tTEoyzIbaOIuIUf {
+    margin-top: 100px !important;
+}
+
+@media only screen and (max-width: 763px) {
+    #IsIfQG16fwW4zDCbqK40oFPyv4uobi1O {
+        width: 100% !important;
+    }
+
+    #features {
+        /* padding-top: 10px !important;*/
+    }
+}

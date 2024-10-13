@@ -1,0 +1,51 @@
+<?php
+
+return [
+
+    'Dashboard' => 'الرئيسية',
+    'messages' => 'الرسائل',
+    'full_name' => 'الاسم بالكامل',
+    'phone_number' => 'رقم الهاتف',
+    'email' => 'البريد الالكترونى',
+    'city' => 'المدينه',
+    'stocks' => 'الاسهم',
+    'notes' => 'الملاحظات',
+    'confirm' => 'تم التأكيد',
+    'settings' => 'الاعدادات',
+    'features_image_one' => 'الصورة الأولى للميزات',
+    'features_image_two' => 'الصورة الثانية للميزات',
+    'investment_image' => 'صورة الاستثمار',
+    'sectors_image' => 'صورة القطاعات',
+    'contact_us_image' => 'صورة اتصل بنا',
+    'images' => 'الصور',
+    'about_us' => 'من نحن',
+    'social_links' => 'الروابط الاجتماعية',
+    'menu' => 'القائمة',
+    'search' => 'بحث',
+    'no' => 'لا',
+    'logo' => 'اللوجو',
+
+    'abouts_us_text' => 'نص من نحن',
+    'abouts_us_image' => 'صورة من نحن',
+    'whats_number' => 'رقم واتساب',
+    'tiktok_url' => 'رابط تيك توك',
+    'instagram_url' => 'رابط انستغرام',
+    'x_url' => 'رابط تويتر',
+    'facebook_url' => 'رابط فيسبوك',
+    'Social Links' => 'روابط التواصل الاجتماعي',
+     'texts'        => 'النصوص',
+    'goal_text'    => 'نص الهدف',
+    'value_text'    => 'نص القيمة',
+    'vision_text'    => 'نص الرؤية',
+    'competitive_advantages_text'    => 'نص المميزات التنافسية',
+    'current_investment_opportunity_text'    => 'نص الفرصة الاستثمارية الحالية',
+    'benefits_for_investors_text'    => 'نص فوائد المستثمرين',
+    'sector_one_title'    => 'عنوان القطاع الأول',
+    'sector_two_title'    => 'عنوان القطاع الثاني',
+    'sector_three_title'    => 'عنوان القطاع الثالث',
+    'sector_one_text'    => 'نص القطاع الأول',
+    'sector_two_text'    => 'نص القطاع الثاني',
+    'sector_three_text'    => 'نص القطاع الثالث'
+
+
+];
