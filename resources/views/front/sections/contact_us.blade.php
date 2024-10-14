@@ -16,6 +16,52 @@
                         name="full_name" value="{{ old('full_name') }}" required>
                 </div>
 
+                <div id="identity_number" class="widget widget-container clearfix"><label
+                    id="identity_number_label"
+                    class="widget widget-text widget-regular-label widget-label"
+                    for="identity_number"> رقم الهويه </label>
+                    <input
+                    class="widget widget-input-text" id="identity_number_input" type="text"
+                    subtype="identity_number" placeholder="رقم الهويه" parentId="Z8n76ObgT82045HdcPp9dCqJJJyyMUBc"
+                    name="identity_number" value="{{ old('identity_number') }}" required>
+                 </div>
+
+
+
+                 <div id="email" class="widget widget-container clearfix"><label
+                    id="email_label"
+                    class="widget widget-text widget-regular-label widget-label"
+                    for="email"> البريد الالكترونى  </label>
+                    <input
+                    class="widget widget-input-text" id="email_input" type="text"
+                    subtype="email" placeholder="البريد الالكترونى" parentId="Z8n76ObgT82045HdcPp9dCqJJJyyMUBc"
+                    name="email" value="{{ old('email') }}" required>
+                 </div>
+
+
+                 <div id="bank_iban" class="widget widget-container clearfix"><label
+                    id="bank_iban_label"
+                    class="widget widget-text widget-regular-label widget-label"
+                    for="bank_iban">  الحساب المصرفي الدولي (IBAN)  </label>
+                    <input
+                    class="widget widget-input-text" id="bank_iban_input" type="text"
+                    subtype="bank_iban" placeholder="IBAN" parentId="Z8n76ObgT82045HdcPp9dCqJJJyyMUBc"
+                    name="bank_iban" value="{{ old('bank_iban') }}" required>
+                 </div>
+
+
+
+                 <div id="bank_name" class="widget widget-container clearfix"><label
+                    id="bank_name_label"
+                    class="widget widget-text widget-regular-label widget-label"
+                    for="bank_name">  اسم البنك </label>
+                    <input
+                    class="widget widget-input-text" id="bank_name_input" type="text"
+                    subtype="bank_name" placeholder="اسم البنك" parentId="Z8n76ObgT82045HdcPp9dCqJJJyyMUBc"
+                    name="bank_name" value="{{ old('bank_name') }}" required>
+                 </div>
+
+
                 <div id="azvrDNoD21NhEWt8ZUimn5eebOvQKXTN" class="widget widget-container clearfix"><label
                         id="ros9WwwWCrdn44tMe73TVa3cvuVZbzg5"
                         class="widget widget-text widget-regular-label widget-label"

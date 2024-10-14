@@ -43,6 +43,10 @@
                                     <th>{{ trans('translation.no') }}</th>
                                     <th>{{ trans('translation.full_name') }}</th>
                                     <th>{{ trans('translation.phone_number') }}</th>
+                                    <th>{{ trans('translation.email') }}</th>
+                                    <th>{{ trans('translation.identity_number') }}</th>
+                                    <th>{{ trans('translation.bank_iban') }}</th>
+                                    <th>{{ trans('translation.bank_name') }}</th>
                                     <th>{{ trans('translation.city') }}</th>
                                     <th>{{ trans('translation.stocks') }}</th>
                                     <th>{{ trans('translation.confirm') }}</th>
@@ -56,6 +60,10 @@
                                             <td>{{ $key + 1 }}</td>
                                             <td>{{ $data->full_name }}</td>
                                             <td>{{ $data->mobile_number }}</td>
+                                            <td>{{ $data->email }}</td>
+                                            <td>{{ $data->identity_number }}</td>
+                                            <td>{{ $data->bank_iban }}</td>
+                                            <td>{{ $data->bank_name }}</td>
                                             <td>{{ $data->city }}</td>
                                             <td>{{ $data->stocks }}</td>
                                             <td>

@@ -44,3 +44,78 @@ div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, blockquote, pre, a, a
         /* padding-top: 10px !important;*/
     }
 }
+
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #identity_number {
+    position: relative;
+}
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #identity_number_label {
+    position: relative;
+    display: block;
+}
+
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #identity_number_input {
+    position: relative;
+}
+
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #email {
+    position: relative;
+}
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #email_label {
+    position: relative;
+    display: block;
+}
+
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #email_input {
+    position: relative;
+}
+
+
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #bank_iban {
+    position: relative;
+}
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #bank_iban_label {
+    position: relative;
+    display: block;
+}
+
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #bank_iban_input {
+    position: relative;
+}
+
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #bank_name {
+    position: relative;
+}
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #bank_name_label {
+    position: relative;
+    display: block;
+}
+
+
+#Z8n76ObgT82045HdcPp9dCqJJJyyMUBc #bank_name_input {
+    position: relative;
+}
+
+
+@media only screen and (max-width: 763px) {
+    #Z8n76ObgT82045HdcPp9dCqJJJyyMUBc {
+
+        height: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 763px) {
+    #K5lytCWgZHrM1tmMMh4bfGLdSz0UJDTS {
+        display: none !important;
+    }
+}

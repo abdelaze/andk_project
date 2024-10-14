@@ -15,6 +15,10 @@ return new class extends Migration
             $table->id();
             $table->string('full_name');
             $table->string('mobile_number');
+            $table->string('email',100)->nullable();
+            $table->string('identity_number',100)->nullable();
+            $table->string('bank_iban',100)->nullable();
+            $table->string('bank_name')->nullable();
             $table->string('city');
             $table->smallInteger('stocks');
             $table->text('notes')->nullable();
